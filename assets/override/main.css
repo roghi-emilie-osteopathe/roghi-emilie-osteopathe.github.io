@@ -4,3 +4,24 @@ ul.enum {
   padding-right: 15%;
   text-align: left;
 }
+
+p.light_background {
+  font-weight: bold;
+}
+.read-more {
+   cursor: pointer;
+   display: inline-block;    
+   font-weight: bold;
+   font-style: italic;
+   font-size: 18px;
+   padding: 3px;
+   margin: 2px;
+}
+
+.short{
+  height: 20ex;
+  overflow: hidden;
+}
+
+.full{
+}
